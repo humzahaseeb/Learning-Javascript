@@ -67,6 +67,13 @@ var mark = {
     }
 }
 
+// average 
+
+
+
+john.calcTip()    
+mark.calcTip()
+
 function calcAverage(tips){
     var sum = 0;
     for (var i = 0; i < tips.length; i++){
@@ -76,8 +83,17 @@ function calcAverage(tips){
 }
 
 
-john.calcTip()    
-mark.calcTip()
+john.average = calcAverage(john.tips);
+mark.average = calcAverage(mark.tips);
+
+if (john.average > mark.average){
+    console.log(john.fullName + "'s family paid higher higher tips with a average of $ " + john.average);
+}
+else if (john.average < mark.average){
+    console.log(mark.fullName + "'s family paid higher higher tips with a average of $ " + mark.average);
+}
+
+
 console.log(john, mark);
     
 
