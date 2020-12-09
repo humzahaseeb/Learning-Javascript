@@ -66,6 +66,16 @@ var mark = {
         }
     }
 }
+
+function calcAverage(tips){
+    var sum = 0;
+    for (var i = 0; i < tips.length; i++){
+        sum = sum + tips[i];
+    }
+    return sum / tips.length;
+}
+
+
 john.calcTip()    
 mark.calcTip()
 console.log(john, mark);
