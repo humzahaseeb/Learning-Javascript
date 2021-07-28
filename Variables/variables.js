@@ -95,9 +95,9 @@ console.log(fullName + ' has won ' + BallonDors + " Ballon D'ors")
 
 let now = 2020;
 let yearMessi = 1987;
-var fullAge = 20;
+let fullAge = 20;
 
-var isFullAge = now - yearMessi >= fullAge
+let isFullAge = now - yearMessi >= fullAge
 console.log(isFullAge);
 
 var ageMessi = now - yearMessi;
