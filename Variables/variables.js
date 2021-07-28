@@ -100,10 +100,10 @@ let fullAge = 20;
 let isFullAge = now - yearMessi >= fullAge
 console.log(isFullAge);
 
-var ageMessi = now - yearMessi;
-var ageRonaldo = 35
+let ageMessi = now - yearMessi;
+let ageRonaldo = 35
 
-var averageAge = (ageMessi + ageRonaldo) / 2
+let averageAge = (ageMessi + ageRonaldo) / 2
 console.log(averageAge);
 
 
