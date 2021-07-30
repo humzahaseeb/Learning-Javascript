@@ -16,7 +16,7 @@ var drink = age>= 18 ? console.log('beer') : console.log('juice')
 // Switch Statements
 let firstName = 'John';
 let age = 28;
-var job = 'teacher';
+let job = 'teacher';
 
 switch (job) {
         
