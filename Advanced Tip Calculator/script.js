@@ -1,4 +1,4 @@
-// First part (For John)
+ // First part (For John)
 
 var john = {
     fullName: 'John Smith',
