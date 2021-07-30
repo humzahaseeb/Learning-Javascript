@@ -93,17 +93,17 @@ console.log(fullName + ' has won ' + BallonDors + " Ballon D'ors")
 
 
 
-var now = 2020;
-var yearMessi = 1987;
-var fullAge = 20;
+let now = 2020;
+let yearMessi = 1987;
+let fullAge = 20;
 
-var isFullAge = now - yearMessi >= fullAge
+let isFullAge = now - yearMessi >= fullAge
 console.log(isFullAge);
 
-var ageMessi = now - yearMessi;
-var ageRonaldo = 35
+let ageMessi = now - yearMessi;
+let ageRonaldo = 35
 
-var averageAge = (ageMessi + ageRonaldo) / 2
+let averageAge = (ageMessi + ageRonaldo) / 2
 console.log(averageAge);
 
 

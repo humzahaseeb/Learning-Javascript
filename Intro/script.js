@@ -43,7 +43,7 @@ function timeRemaining (elapsedTime, endTime){
     return endTime - elapsedTime;
 }
 
-var left = timeRemaining(240, 300);
+let left = timeRemaining(240, 300);
 console.log(left)
 
 
