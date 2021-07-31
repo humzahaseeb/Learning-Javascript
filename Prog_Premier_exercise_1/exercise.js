@@ -13,7 +13,7 @@ function printFavoriteBooks(){
     }
 }
 
-var favoriteBooks = [];
+let favoriteBooks = [];
 
 addFavoriteBook('A song of Ice and Fire');
 addFavoriteBook('The Great Gatsby');
