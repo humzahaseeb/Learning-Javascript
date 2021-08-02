@@ -1,4 +1,4 @@
-var hamza = {
+let hamza = {
     firstName: 'Hamza',
     LastName: 'Haseeb',
     birthYear: 1999,
