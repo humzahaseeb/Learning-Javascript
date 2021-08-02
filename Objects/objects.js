@@ -31,6 +31,8 @@ let tayyab = {
     }
 };
 
+console.log(tayyab);
+
 
 
 
