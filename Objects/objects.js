@@ -16,7 +16,7 @@ let hamza = {
 console.log(hamza);
 
 
-var tayyab = {
+let tayyab = {
     firstName: 'Tayyab',
     LastName: 'Haseeb',
     age: 20,
