@@ -19,7 +19,7 @@ console.log(hamza);
 let tayyab = {
     firstName: 'Tayyab',
     LastName: 'Haseeb',
-    age: 20,
+    birthYear: 2000,
     degree: 'Mechanical Engineering ',
     university: 'NFC Institute, Faisalabad',
     favTeam: 'Real Madrid',
