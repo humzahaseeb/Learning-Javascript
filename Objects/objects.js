@@ -15,7 +15,7 @@ let hamza = {
 
 console.log(hamza);
 
-/*
+
 var tayyab = {
     firstName: 'Tayyab',
     LastName: 'Haseeb',
@@ -28,7 +28,7 @@ var tayyab = {
     isMarried: false
 };
 
-*/
+
 
 
 
