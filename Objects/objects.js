@@ -25,7 +25,10 @@ let tayyab = {
     favTeam: 'Real Madrid',
     favPlayer: 'Cristiano Ronaldo',
     family: ['Hamza','Ahmed' ],
-    isMarried: false
+    isMarried: false,
+    calcAge: function(birthYear){
+        this.age = 2020 - this.birthYear;
+    }
 };
 
 
