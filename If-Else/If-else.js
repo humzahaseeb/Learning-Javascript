@@ -16,7 +16,7 @@ else{
 // BMI for Mark
 
 if heightMark = prompt("What is Mark's height in meters?");//meters
-var massMark = prompt("What is Mark's weight in kgs?"); //kgs
+if massMark = prompt("What is Mark's weight in kgs?"); //kgs
 
 var bmiMark = massMark / (heightMark * heightMark);
 console.log(" Marks's BMI: " + bmiMark);
