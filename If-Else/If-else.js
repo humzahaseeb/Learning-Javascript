@@ -23,10 +23,10 @@ console.log(" Marks's BMI: " + bmiMark);
 
 
 // BMI for John
-var heightJohn = prompt("What is John's height in meters?"); // meters
-var massJohn = prompt("What is John's weight in kgs?");  // kgs
+let heightJohn = prompt("What is John's height in meters?"); // meters
+let massJohn = prompt("What is John's weight in kgs?");  // kgs
 
-var bmiJohn = massJohn / (heightJohn * heightJohn);
+let bmiJohn = massJohn / (heightJohn * heightJohn);
 console.log("John's BMI: "+ bmiJohn);
 
 
