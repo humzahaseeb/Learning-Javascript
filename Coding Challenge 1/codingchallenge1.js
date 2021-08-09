@@ -1,7 +1,7 @@
 
 // BMI for Mark
-var heightMark = 1.5; //meters
-var massMark = 90; //kgs
+let heightMark = 1.5; //meters
+let massMark = 90; //kgs
 
 var bmiMark = massMark / (heightMark * heightMark);
 console.log(bmiMark);
