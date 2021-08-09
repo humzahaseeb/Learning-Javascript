@@ -3,7 +3,7 @@
 let heightMark = 1.5; //meters
 let massMark = 90; //kgs
 
-var bmiMark = massMark / (heightMark * heightMark);
+let bmiMark = massMark / (heightMark * heightMark);
 console.log(bmiMark);
 
 
