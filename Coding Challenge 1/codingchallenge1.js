@@ -11,7 +11,7 @@ console.log(bmiMark);
 let heightJohn = 1.3; // meters
 let massJohn = 60;  // kgs
 
-var bmiJohn = massJohn / (heightJohn * heightJohn);
+let bmiJohn = massJohn / (heightJohn * heightJohn);
 console.log(bmiJohn);
 
 // comparing their bmis
