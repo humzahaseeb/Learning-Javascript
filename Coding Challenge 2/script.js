@@ -1,6 +1,6 @@
 
 // John's team
-var Team_1, goals_In_Last_3Games_team1;
+let Team_1, goals_In_Last_3Games_team1;
 
 Team_1 = "John's Team";
 goals_In_Last_3Games_team1 = 90 + 20 + 10;
