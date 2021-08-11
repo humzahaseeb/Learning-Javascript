@@ -23,7 +23,7 @@ let Team_3, goals_In_Last_3Games_team3;
 Team_3 = "Marie's Team";
 goals_In_Last_3Games_team3 = 5 + 100 + 5;
 
-var average_score_team_3 = goals_In_Last_3Games_team3 / 3;
+let average_score_team_3 = goals_In_Last_3Games_team3 / 3;
 
 
 
