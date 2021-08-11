@@ -9,7 +9,7 @@ let average_score_team_1 = goals_In_Last_3Games_team1 / 3;
 
 // Mike's Team
 
-var Team_2, goals_In_Last_3Games_team2;
+let Team_2, goals_In_Last_3Games_team2;
 
 Team_2 = "Mike's Team";
 goals_In_Last_3Games_team2 = 15 + 90 + 15;
