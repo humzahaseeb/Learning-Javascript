@@ -1,5 +1,5 @@
 // Functions
-/*
+
 function birthYear(currentAge){
     return 2020 - currentAge;
 }
@@ -25,7 +25,7 @@ yearsUntilRetirement('Neymar Jr.', 28);
 
 
 
-*/
+
 
 // Function Statements and Expressions
 
