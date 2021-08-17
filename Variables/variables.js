@@ -2,7 +2,7 @@
 *    Variables and Datatypes   *
 ********************************/
 
-/*
+
 var firstName = 'Lionel';
 console.log(firstName);
 
@@ -20,7 +20,6 @@ console.log(GOAT);
 
 GOAT = 'Lionel Messi';
 console.log(GOAT);
-*/
 
 
 /**************************************** 
