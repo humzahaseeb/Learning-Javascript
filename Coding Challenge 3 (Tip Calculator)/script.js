@@ -1,5 +1,5 @@
 function tipCalculator(bill){
-    var percentage;
+    let percentage;
  if (bill < 50){
     return percentage = bill * 0.2;
  }
@@ -14,7 +14,7 @@ else if (bill > 200){
     
 }
             
-var bills = [124, 48, 268];
+let bills = [124, 48, 268];
 
 var tips = [tipCalculator(bills[0]), 
             tipCalculator(bills[1]),
