@@ -1,4 +1,4 @@
-var Mark = {
+let Mark = {
     fullName: 'Mark Zuckerberg',
     mass: 90,
     height: 1.5,
@@ -10,7 +10,7 @@ var Mark = {
 
 
 
-var John = {
+let John = {
     fullName: 'John Smith',
     mass: 70,
     height: 1.95,
